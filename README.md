@@ -48,7 +48,7 @@ embedded-temp-monitor/
 
 ```bash
 # Clone and build
-git clone https://github.com/<your-username>/embedded-temp-monitor.git
+git clone https://github.com/giabaow/embedded-temp-monitor.git
 cd embedded-temp-monitor
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build
